@@ -1,0 +1,20 @@
+{
+  "name": "@blinov/vue-async-data",
+  "version": "1.0.1",
+  "description": "Allows you to fetch all the necessary data for the controller before mount it.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-blinov/vue-async-data.git"
+  },
+  "keywords": [],
+  "author": "Dmitry Blinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-blinov/vue-async-data/issues"
+  },
+  "homepage": "https://github.com/dev-blinov/vue-async-data#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
